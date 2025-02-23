@@ -102,7 +102,7 @@ Options:
   --version                                               Show version information
   -?, -h, --help                                          Show help and usage information
 ```
-[click to show gif](https://github.com/TSsoco/N_m3u8DL-RE-PRI/blob/main/decrypt.png)
+(https://github.com/TSsoco/N_m3u8DL-RE-PRI/blob/main/decrypt.png)
 <details>
 <summary>点击查看More Help</summary> 
 
